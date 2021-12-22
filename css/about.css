@@ -72,9 +72,8 @@ header{
 }
 footer{
     
-    position: fixed;
+    position: unset;
     height: 125px;
-    /* background-color: var(--bg-black-50 ); */
     background-color: lightslategrey;
     width: 100%;
     display: flex;
